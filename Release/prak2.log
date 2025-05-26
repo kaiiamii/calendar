@@ -1,0 +1,3 @@
+﻿  Source.cpp
+MSVCRT.lib(exe_main.obj) : error LNK2001: неразрешенный внешний символ _main.
+D:\prog\prak2\Release\prak2.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
